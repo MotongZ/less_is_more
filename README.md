@@ -1,5 +1,5 @@
 # less_is_more
-一个简单的golang短链服务,作为golang学习使用  
+一个简单的golang短链服务 
 
 # 功能
 - 短链生成
